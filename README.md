@@ -12,6 +12,7 @@ Used modern semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>) t
 Implemented structured navigation menus with consistent headers and footers across all pages.
 Created organized content layouts using headings (H1, H2, H3), lists, and paragraphs.
 Added descriptive alt attributes to all images to improve web accessibility.
+
 ## Part 2: CSS Styling & Responsive Design
 
 ### Learning Outcomes Achieved:
