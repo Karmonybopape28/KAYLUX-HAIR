@@ -35,7 +35,14 @@ Added descriptive alt attributes to all images to improve web accessibility.
 - Applied HTML5 validation (required, type, pattern, minlength) to all form inputs.
 - Added SEO meta tags, robots.txt, and sitemap.xml.
 
-## References
+### References:
+Google, (2026) Google Fonts: Playfair Display & Montserrat. Available at: https://fonts.google.com/ (Accessed: 30 October 2026).
+Mozilla, (2026) CSS Flexbox & Grid Layout Documentation. MDN Web Docs. Available at: https://developer.mozilla.org/ (Accessed: 30 October 2026).
+Mozilla, (2026) JavaScript DOM Manipulation & URLSearchParams. MDN Web Docs. Available at: https://developer.mozilla.org/ (Accessed: 30 October 2026).
+Netlify, (2026) Netlify: Deploy modern web projects. Available at: https://www.netlify.com/ (Accessed: 30 October 2026).
+ 
+
+
 Go Glueless (2026) Go Glueless. Available at: https://www.goglueless.com/ (Accessed: 17 September 2026).
 ### How to view:
 1. Clone the repository.
