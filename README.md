@@ -22,6 +22,19 @@ Added descriptive alt attributes to all images to improve web accessibility.
 - Implemented Responsive Design using relative units (rem, %), responsive images, and media queries.
 - Tested and iterated the design across Desktop, Tablet, and Mobile screen sizes.
 
+  
+ ##  Part 3: Enhancing Functionality and SEO
+Changelog (Updates from Part 2):
+Added external JavaScript (js/script.js) for interactivity.
+Implemented FAQ Accordion (click to open/close) on the FAQs page.
+Implemented Live Search Filter on the Shop page.
+Created a dynamic product detail page (product.html) that reads URL parameters to load wig data.
+Implemented advanced DOM manipulation: Dynamic pricing that calculates the total based on inches, density, and lace selections.
+Added Quantity selector and Add to Bag cart counter.
+Created two validated HTML5 forms: Contact.html and Enquiry.html.
+Applied HTML5 validation (required, type, pattern, minlength) to all form inputs.
+Added SEO meta tags, robots.txt, and sitemap.xml.
+
 ## References
 Go Glueless (2026) Go Glueless. Available at: https://www.goglueless.com/ (Accessed: 17 September 2026).
 ### How to view:
